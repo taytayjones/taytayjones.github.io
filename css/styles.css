@@ -1,0 +1,69 @@
+h1, h3, h2 {
+	font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+	padding: 5px;
+}
+h2 {
+	height: 50px;
+    width: 100%;
+    background-color: powderblue;
+}
+body {
+	background-color: rgb(240-240-230);
+}
+p, ul, li {
+	font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+}
+h1 {
+  border-bottom-style: solid;
+  border-bottom-width: thin;
+  }
+
+ul {
+	list-style-image: url('images/sqpurple.gif');
+	border-color: rgb(255,204,153);
+}
+
+/*.container {
+    position: relative;
+}
+
+.center {
+    position: absolute;
+    left: 0;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+}*/
+h3.robot {
+	float: bottom;
+	border-style: solid;
+	border-color: black;
+	border-width: thin;
+	padding: 2px;
+}
+
+.image {
+	margin: 5px;
+	border-style: solid;
+	border-color: black;
+	border-width: thin;
+	float: left;
+	width: 200px;
+}
+.image:hover {
+	border-width: thin;
+	border-color: black;
+	border-style: solid;
+}
+div.image img {
+	width: 25%;
+	height: auto;
+}
+.name_image {
+	padding: 5px;
+	text-align: left;
+}
+p.instagram, p.email {
+	background-color: rgb(255,235,205);
+}

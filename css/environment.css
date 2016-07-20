@@ -1,0 +1,27 @@
+body {
+	background-color: #DCF2B0;
+}
+.container-fluid {
+	background-color: #C2EABD;
+}
+h2, body, ul, li {
+	margin-left: 10px;
+	height: auto;
+	width: auto;
+	max-width: 300px
+	max-width: 300px;
+}
+.container-two {
+	height: auto;
+	width: auto;
+	max-width: 300px
+	max-width: 300px;
+}
+body-five {
+	padding: 5px;
+}
+body-three {
+	position: relative;
+	left: 675px;
+	bottom: 50px;
+}

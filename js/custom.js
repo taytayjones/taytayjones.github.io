@@ -20,10 +20,7 @@ $(document).ready(function(){
 	$(".pic-me").click(function() {
 		moveLeft();
 	});
-
-	// $(".pic-me").click(function() {
-	// 	moveRight();
-	// });
+ 
 
 	$(".arduino").click(function() {
 		$("#arduino").attr("src","images/arduino_yes.jpg")
